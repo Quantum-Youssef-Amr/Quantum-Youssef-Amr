@@ -84,17 +84,15 @@ Whether it's building a survival horror FPS, designing RPG systems, or integrati
 - Tower defense survival gameplay with wave-based infected enemies
 - Atmospheric lighting and SFX for high tension
 - Score tracking, kill count, and health pickups  
-- Download: 👉 [Play on itch.io](https://orpita-studios.itch.io/infected)
 
 ---
 
-### 🐉 The Great Dragon Slayer *(Action RPG)*
-> A fantasy RPG where players battle dragons with real-time combat and level progression.
+### 🧠 **Grid-Based Enemy Movement Solver**
+Custom enemy movement and pathfinding logic for tower-defense games.
 
-- Custom physics and collision detection  
-- Procedural level generation with loot drops  
-- Save/load using JSON serialization  
-- Developed in **Unity** with **C#**
+- A*-based logic adapted for gameplay constraints
+- Tile weighting, randomness control, and hard safety caps
+- Designed to be deterministic and debuggable
 
 ---
 
@@ -127,8 +125,8 @@ Whether it's building a survival horror FPS, designing RPG systems, or integrati
 
 ## 🛠 Currently Working On
 
-- 🔄 A multiplayer roguelike with procedural levels and Photon Unity Networking  
-- 🎨 In-game cutscene editor for non-programmers  
+- 🎨 In-game cutscene editor for non-programmers
+- 🚀 Starting a new startup to contribute to the games scene in Egypt
 - ☁️ Cross-platform cloud save system using AWS S3 and Cognito  
 
 ---
