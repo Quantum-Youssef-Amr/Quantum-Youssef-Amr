@@ -118,8 +118,8 @@ If it's hard and it needs to exist, I build it.
 
 - Built in 3 days for GMTK 2025
 - 600th out of 10,000+ teams
-- Rebuilt solo in one evening after betrayal
-- Now free on my portfolio — with credit to everyone, even the one who erased me
+- Rebuilt solo in one evening
+- Now free on my portfolio
 
 ---
 
@@ -128,7 +128,6 @@ If it's hard and it needs to exist, I build it.
 
 - 3 specialized models: XGBoost, BioClinical ModernBERT, BioViL‑T
 - Bayesian Egyptian prior adjustment (TB, Aspergillosis, Hydatid Disease)
-- Deployed in 5 Egyptian clinics
 - My role: QA, Project Manager, Frontend Lead, Backend Lead
 
 ---
@@ -137,7 +136,7 @@ If it's hard and it needs to exist, I build it.
 > Balance energy production and pollution. Build the city. Survive the trade‑offs.
 
 - Day/night cycle, weather, resource management
-- The game that started everything. Built at 14. Still in my portfolio.
+- The game that started everything.
 
 ---
 
