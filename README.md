@@ -146,7 +146,7 @@ If it's hard and it needs to exist, I build it.
 - 2D space exploration (KSP‑lite)
 - Plant flags on 5 planets. Collect gems. Return to Earth.
 - Achievements save to the website
-- Find her on my contact page
+- Find her on my protfolio's contact page
 
 ---
 
@@ -164,14 +164,13 @@ If it's hard and it needs to exist, I build it.
 
 - 🎮 **INFECTED** — full release (Q3/Q4 2026)
 - 🐟 **Starfish** — arm‑sacrifice narrative game. Concept by Youssef Soliman, built by me.
-- 🚀 **Axiom Studio** — my post‑OrPita studio with two real friends
+- 🚀 **Axiom Studio** — my own game development studio
 - 📊 **Deep Learning** — closing the gap (CNN, LSTM, production ML)
 
 ---
 
 ## 📬 Let’s Connect
 
-- 🌐 [GitHub](https://github.com/Quantum-Youssef-Amr)
 - 🧠 [LinkedIn](https://www.linkedin.com/in/youssef-amr-2ba9962b5/)
 - ✉️ [Email](mailto:amry14003@gmail.com)
 - 🎮 [Portfolio](https://youssef-amr-portfolio.web.app/)
