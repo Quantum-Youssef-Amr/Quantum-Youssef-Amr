@@ -113,7 +113,7 @@ If it's hard and it needs to exist, I build it.
 
 ---
 
-### 🏥 One More Day *(Narrative GMTK Top 7%) with [Orpita studio](https://www.linkedin.com/company/orpita-studio/)*
+### 🏥 One More Day *(Narrative GMTK Top 7%) as Head of game dev at [Orpita studio](https://orpita-studio.web.app/)*
 > A doctor trapped in a hospital timeloop, trying to save loved ones.
 
 - Built in 3 days for GMTK 2025
