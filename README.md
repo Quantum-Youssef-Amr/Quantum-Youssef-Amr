@@ -113,14 +113,13 @@ If it's hard and it needs to exist, I build it.
 
 ---
 
-### 🏥 One More Day *(Narrative GMTK Top 7%) with [Orpita studio](https://www.linkedin.com/company/orpita-studio/)*
+### 🏥 One More Day *(Narrative GMTK Top 16%) as head of game dev at [Orpita studio](https://orpita-studio.web.app/)*
 > A doctor trapped in a hospital timeloop, trying to save loved ones.
 
 - Built in 3 days for GMTK 2025
 - 600th out of 10,000+ teams
-- Rebuilt solo in one evening
-- Now free on my portfolio
-
+- Now on orpita studio page
+(u will remove it btw)
 ---
 
 ### 🌍 DrWisee *(Medical AI — Ministry of Health)*
