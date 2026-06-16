@@ -163,7 +163,6 @@ If it's hard and it needs to exist, I build it.
 ## 🛠 Currently Working On
 
 - 🎮 **INFECTED** — full release (Q3/Q4 2026)
-- 🐟 **Starfish** — arm‑sacrifice narrative game. Concept by [Youssef Soliman](https://www.linkedin.com/in/youssef-soliman-690153266/), built by me.
 - 🚀 **Axiom Studio** — my own game development studio
 - 📊 **Deep Learning** — closing the gap (CNN, LSTM, production ML)
 
