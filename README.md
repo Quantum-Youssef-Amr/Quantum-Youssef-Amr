@@ -173,7 +173,7 @@ If it's hard and it needs to exist, I build it.
 
 - 🧠 [LinkedIn](https://www.linkedin.com/in/youssef-amr-2ba9962b5/)
 - ✉️ [Email](mailto:amry14003@gmail.com)
-- 🎮 [Portfolio](https://youssef-amr-portfolio.web.app/)
+- 🎮 [Portfolio](https://youssefamr-thesolodev.web.app)
 
 ---
 
